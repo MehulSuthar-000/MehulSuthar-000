@@ -21,15 +21,21 @@
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Featured Projects
 
-> **Project Name**  
-> _A brief description of your project goes here._  
-> [GitHub Repo](#)
+> **JPA Learning Management System**
+>
+> _A deep dive into enterprise backend development, demonstrating advanced Spring Data JPA concepts like complex entity relationships, inheritance strategies, and N+1 query optimization._
+>
+> [🔗 GitHub Repo](https://github.com/MehulSuthar-000/JPA_Project)
 
-> **Another Project**  
-> _Another short summary of your project._  
-> [GitHub Repo](#)
+> **Flixify - Movie Recommendation App**
+>
+> _A hybrid mobile app built with Flutter that suggests movies you'll love. The backend is a Python Flask API that uses a Natural Language Processing model for recommendations._
+>
+> [🔗 GitHub Repo](https://github.com/MehulSuthar-000/Flixify)
+
+---
 
 ---
 
